@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true and last newes from Ireland. As it was delivered by a gentleman of great credit, who was himselfe and wife prisoners unto the rebels for the space of 13 weekes, neere unto the towne of Drogheda, in the north of that kingdome. Comtaining a true relation of the brave atchievements of the honourable, Francis Moore, brother to the right honourable Charles, Lord Moore, lord viscount of Drogheda. A true copy of the election of Lieutenant generall Plunquet, under the hand of Sir Phelom O-neile knight, generall of the Irish rebels.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94933</idno><idno type="EEBO-CITATION">99859872</idno>
+  <idno type="VID">156418</idno>
+  <idno type="EEBO-PROQUEST">2240868597</idno>
+  
+            <idno type="STC">Wing T2511</idno>
+            <idno type="STC">Thomason E134_30</idno>
+            <idno type="STC">ESTC R15478</idno>
+            <idno type="PROQUEST">99859872</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859872e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156418)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true and last newes from Ireland. As it was delivered by a gentleman of great credit, who was himselfe and wife prisoners unto the rebels for the space of 13 weekes, neere unto the towne of Drogheda, in the north of that kingdome. Comtaining a true relation of the brave atchievements of the honourable, Francis Moore, brother to the right honourable Charles, Lord Moore, lord viscount of Drogheda. A true copy of the election of Lieutenant generall Plunquet, under the hand of Sir Phelom O-neile knight, generall of the Irish rebels.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Moore, Francis, d. 1662 --  Early works to 1800.</term>
+               <term type="personal_name">Plunkett, Richard, 17th cent --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156418:1"/>
+            <p>THE TRUE And LAST NEWES From IRELAND.</p>
+            <p>As it was delivered by a Gentleman of great Credit, who was himselfe and Wife Prisoners unto the Rebels for the space of 13 weekes, heere unto the Towne of <hi>Droghe<g ref="char:EOLhyphen"/>da,</hi> in the North of that Kingdome.</p>
+            <p>
+               <hi>Containing</hi> A true Relation of the brave Atchievements of the Honourable, <hi>Francis Moore,</hi> Brother to the Right Honourable <hi>Charles,</hi> Lord <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Lord Viscount of <hi>Drogheda.</hi>
+            </p>
+            <p>A true Copy of the election of Lieutenant Ge<g ref="char:EOLhyphen"/>nerall <hi>Plumquet,</hi> under the hand of Sir <hi>Phelo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> O<g ref="char:EOLhyphen"/>neile</hi> Knight, Generall of the Irish Rebels.</p>
+            <p>Printed at London for John Wright. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156418:2"/>
+            <pb n="1" facs="tcp:156418:2"/>
+            <head>THE TRVE And LAST NEVVES FROM IRELAND.</head>
+            <head type="sub">As it was delivered by a Gentleman of great credit; who was himselfe and his wife Prisoners unto the Rebels, for the space of thirteene weekes, neere unto the Towne of <hi>Drogheda,</hi> in the North of that Kingdome.</head>
+            <p>IT happened that upon the thirteenth day of <hi>Ianua<g ref="char:EOLhyphen"/>ry</hi> last past, (which day was very darke and gloomy, inclining to stormes of hayle and snow) that this Heroicke Cavalier Master <hi>Francis Moore,</hi> commanded the right honourable the Lord <hi>Moore</hi> his Troope, to be in present readinesse, for sally out of the Towne of <hi>Drogheda;</hi> whose Souldiers and Troopers were soone provided; and each man, to the number of threescore persons well mounted. Which done, this brave spirit, Master <hi>Francis Moore,</hi> lead the said Troope, in excel<g ref="char:EOLhyphen"/>lent good order and battalio, alwayes ready to give the
+<pb n="2" facs="tcp:156418:3"/>onset upon the Rebels; whose strength or number of men, greatly exceeded the English: for the quarter wherein the Enemy lay, contained at the least sixteene hundred men or upwards: which number no whit daun<g ref="char:EOLhyphen"/>ted this Heroicke commander, or any of his Souldi<g ref="char:EOLhyphen"/>ers, but rather gave life and met all to the Troopers, who were sufficiently resolved under whose banner they fought. <hi>Quando pugnant pro aris &amp; focis,</hi> when men fight for their wives, children, and livelyhoods, these are great Motives unto resolution; but here in this defen<g ref="char:EOLhyphen"/>sive War, is staked a prize and jewell of the greatest consequence; It was our Religion, which gave courage to the valiant hearts and hands of the Souldiers, under the command of this Cavalier.</p>
+            <p>It happened as they marched forward, about a bowes shoot from the Towne, that from a hill they discovered an Irish Crete or house, a quarter of a mile distant from any other houses or Cottages; and from the Towne of <hi>Drogheda,</hi> one full mile at the least. Towards which place, they drew themselves in come<g ref="char:EOLhyphen"/>ly order and came unto it, without any opposition or discovery of the enemy. Which is a wonder to relate, seeing the number of the Rebels at that time, encam<g ref="char:EOLhyphen"/>ped against the said Towne, could be conceived by this relator, then conversant with them, to be no fewer (on that side of the Towne) then three thousand men. But so it was, that the coldnesse of the season, and the storms of raine, hayle and snow, confirmed unto the Rebels, an opinion of their security, insomuch as they quite neglected their Centinels or Watches, and so became a prey unto these Troopers, as you shall soone perceive.</p>
+            <pb n="3" facs="tcp:156418:3"/>
+            <p>However, by the way give me leave, credibly to en<g ref="char:EOLhyphen"/>forme the Reader, that such is the common nature of those Rebellious drones, to omit all kinde of usefull service whatsoever, nay when their dangers are knowne unto themselves and most eminent, every of them poasting from their Commanders into holes and cor<g ref="char:EOLhyphen"/>ners, rather th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n endure two houres attendance or service in a cold day or night, for which default, their Officers dare not punish them, least themselves should suffer by the uncontrowled spirits of the mul<g ref="char:EOLhyphen"/>titude.</p>
+            <p>An instance of this nature the Relater can exempli<g ref="char:EOLhyphen"/>fie in; for upon a time after the running away of at least two thousand of the <hi>Neile's,</hi> from the siege, upo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> slaughter of sixteene of their men, their Captaine or Collonell (as they are all, or most of them Collonels) threatned, that he would hang aboundance of the fu<g ref="char:EOLhyphen"/>gitives, whereunto they replyed; Let any Captaine or Commander hang us if they dare, or Generall himself, for if they doe, themselves shall hang with us for company.</p>
+            <p>But wee will returne unto our purpose, which is to declare the courage of that worthy Gentleman, Master <hi>Francis More,</hi> and the issue of his atchieved plot upon the Rebels.</p>
+            <p>Within that forementioned Crete or Irish Cabbin, (for so they are called) was lodged <hi>Art. Roe, Mac Mahon,</hi> (who as now, so he was ever an open professed Rebell, and had done many outrages in that part of <hi>Ireland,</hi> alwayes escaping the hands of his pursuers, though still endeavouring to entrap him) This <hi>Art. Roe Mac Mahon,</hi> had under his command then in the house
+<pb n="4" facs="tcp:156418:4"/>with him fifty and sixe Souldiers; who upon discovery of the English so neere them as they were gotten, durst not adventure to come forth, but remained within the said house, whereupon the English, least the whole body of the Rebels should rescue them; the brave Ca<g ref="char:EOLhyphen"/>valiere gave command to fire the house, which being done, they were enforced either to come forth, or to remaine there to burne in the fire. In conclusion <hi>Art. Roe, Mac Mahon</hi> and his fellow Rebels came out, tru<g ref="char:EOLhyphen"/>sting rather to the agility and nimblenesse of their feet (which are alwayes their better friends) then their hands, and so every man betooke himselfe to his heels, and run away; in pursuance of whom our English fol<g ref="char:EOLhyphen"/>lowed amaine, and howbeit the other enemy not farre from them, by this time had discovered their danger, and began with multitudes to relieve their owne men, yet the English killed of the Rebels 23 and tooke 18 prisoners, the rest escaping towards the Towne of <hi>Drogheda,</hi> were all killed from the walls of the said Towne. And as concerning <hi>Art. Roe Mac Makon</hi> (who had almost escaped quite away) hee also was taken by Mr. <hi>Francis Moore</hi> following him on horse backe with all speed, who stroke his head cleane off from his shoulders at one blowe, as he thought to have escaped of his life unto a river neere adjoyning, over which river hee had well beene able to have swimmed, and saved himselfe, which being done, the said Master <hi>Francis Moore,</hi> mounted as he was, roade towards the Towne with his Souldiers, gently in comly manner and order, himselfe holding upon the point of his own sword the head of the said Rebel <hi>Art Roe Mac Ma<g ref="char:EOLhyphen"/>hon,</hi> and every other Souldier, the head of him whom
+<pb n="5" facs="tcp:156418:4"/>he had slaine, and so came victoriously into the Towne againe with much joy and renowne. And from his lodging (went as every good Souldier ought to doe) unto the Church, where he gave publicke thanks<g ref="char:EOLhyphen"/>giving unto Almighty God, who had that day blessed himselfe and his people, in the overthrow of those who are enemies, both unto God, and also to their King and Soveraigne; for which let every soule say, <hi>The great Name of the Lord be praised.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>A true Copy of the Election of Lieutenant Generall <hi>Plunquet,</hi> under the hand of Sir <hi>Phelom O Neile,</hi> Knight, Generall of the Irish Rebels.</head>
+                        <p>WHereas wee have hitherto sustained severall in<g ref="char:EOLhyphen"/>conveniences, in regard of the great want of able Commanders, concerning our Forces in the Nor<g ref="char:EOLhyphen"/>therne parts of this Kingdome of <hi>Ireland,</hi> whereof We Sir <hi>Phelom O Neile</hi> Knight, are made Generall and Commander in chiefe over the two Provinces of <hi>Lemstar</hi> and <hi>Vlster,</hi> by the free will, pleasure, and con<g ref="char:EOLhyphen"/>sent of the Right honourable the Noblemen, Knights, Gentry, and Commons within the said two Provinces residing, <hi>For the speedy</hi> prevention of which so eminent dangers, <hi>We</hi> the said Sir <hi>Phelom O Neile</hi> Knight, Gene<g ref="char:EOLhyphen"/>rall and Commander in chiefe, have thought fit and requisite (out of our pious care) to elect, nominate, &amp; appoint, one whose birth and honour, together with his prowesse, wisedome, and magnanimity, may ani<g ref="char:EOLhyphen"/>mate, advise and discipline our Army within the said parts, as well to a due obedience, as unto sight in time
+<pb n="6" facs="tcp:156418:5"/>of warre. <hi>In tender consideration</hi> whereof, <hi>We</hi> the said Sir <hi>Phelom O Neile,</hi> have thought it sitting and most expe<g ref="char:EOLhyphen"/>dient, for the speedy advancement of the holy Roman Catholicke Religion to nominate, ordaine and con<g ref="char:EOLhyphen"/>stitute, and for the said causes doe nominate, ordaine, and constitute, <hi>Our</hi> trusty and wel-affected kinsman and friend, Collonell <hi>Richard <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>lunquet,</hi> to be <hi>Our</hi> Lieute<g ref="char:EOLhyphen"/>nant Generall, and next in Commission to us over the said holy Catholicke Army within the Pro<g ref="char:EOLhyphen"/>vince of <hi>Lemstar</hi> onely, under whose conduct and command, <hi>W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e</hi> doe hereby straitly charge and re<g ref="char:EOLhyphen"/>quire all manner of persons, to yeeld their ready ser<g ref="char:EOLhyphen"/>vice and obedience whatsoever. And furthermore it is <hi>Our</hi> said will and pleasure, that it shall be l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>wful un<g ref="char:EOLhyphen"/>to him <hi>Our</hi> Lieutenant Generall <hi>Plunquet,</hi> to performe and doe whatsoever in his wisedome and prudence shall be requisite unto the expediting of these <hi>Our</hi> sa<g ref="char:EOLhyphen"/>cred affaires; <hi>We</hi> the said Sir <hi>Phelom O Neile</hi> ratifying, confirming, and allowing the same as <hi>Our</hi> owne proper Act and Deed. <hi>Whereunto wee</hi> have set <hi>Our</hi> hand and Seale this first day of Jan. 1641.</p>
+                        <trailer>
+                           <hi>To the Right Honorable his trusty and well affectioned Kinsman and friend Collonell</hi> Richard Plunquet, <hi>Lieute<g ref="char:EOLhyphen"/>nant Generall of</hi> Lemstar.</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
